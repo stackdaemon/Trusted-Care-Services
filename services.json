@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Baby Sitting",
+    "description": "Professional babysitting services for your children. We provide experienced and caring babysitters who ensure your child's safety and happiness.",
+    "category": "Baby Care",
+    "pricePerHour": 15,
+    "image": "https://images.unsplash.com/photo-1544126566-47a3258c7075?auto=format&fit=crop&q=80&w=1000",
+    "features": ["Certified Babysitters", "First Aid Trained", "Fun Activities", "Homework Help"]
+  },
+  {
+    "title": "Elderly Care",
+    "description": "Compassionate care for the elderly. Our caregivers provide companionship, assistance with daily activities, and medical monitoring.",
+    "category": "Elderly Care",
+    "pricePerHour": 20,
+    "image": "https://images.unsplash.com/photo-1581579438747-1dc8d17bbce4?auto=format&fit=crop&q=80&w=1000",
+    "features": ["Medication Management", "Mobility Assistance", "Companionship", "Meal Preparation"]
+  },
+  {
+    "title": "Special Needs Care",
+    "description": "Specialized care for individuals with special needs. Our staff is trained to handle various conditions with patience and expertise.",
+    "category": "Special Care",
+    "pricePerHour": 25,
+    "image": "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&q=80&w=1000",
+    "features": ["Specialized Training", "Therapy Support", "Behavioral Management", "24/7 Monitoring"]
+  },
+  {
+    "title": "Pet Care",
+    "description": "Trust us with your furry friends. We offer walking, feeding, and companionship services for your pets while you are away.",
+    "category": "Pet Care",
+    "pricePerHour": 12,
+    "image": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=1000",
+    "features": ["Dog Walking", "Feeding", "Overnight Stays", "Medication Administration"]
+  },
+  {
+    "title": "Housekeeping",
+    "description": "Professional housekeeping services to keep your home clean and organized. We offer regular cleaning, deep cleaning, and laundry services.",
+    "category": "Household",
+    "pricePerHour": 18,
+    "image": "https://images.unsplash.com/photo-1581578731117-104f2a41d3fa?auto=format&fit=crop&q=80&w=1000",
+    "features": ["Deep Cleaning", "Laundry", "Organizing", "Eco-friendly Products"]
+  },
+  {
+    "title": "Tutor Services",
+    "description": "Academic support for students of all ages. Our tutors can help with homework, test preparation, and subject-specific learning.",
+    "category": "Education",
+    "pricePerHour": 30,
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=1000",
+    "features": ["Math & Science", "Language Arts", "Test Prep", "Online or In-person"]
+  }
+]
